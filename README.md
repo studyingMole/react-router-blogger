@@ -1,27 +1,16 @@
 # React Redux Blogger
 
-
+Simple blogging application created with React, Redux, react-router-dom.
 
 ## Getting Started
-
-There are two methods for getting started with this repo.
-
-## Familiar with Git
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```shell
 > git clone https://github.com/studyingMole/react-router-blogger.git
-> cd ReduxSimpleStarter
+> cd react-router-blogger
 > npm install
 > npm start
 ```
 
-## Not Familiar with Git
-
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```shell
-> npm install
-> npm start
-```
+Open a browser and navigate to `localhost:8080` to view the app.
